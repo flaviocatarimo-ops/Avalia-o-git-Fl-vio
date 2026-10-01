@@ -9,12 +9,14 @@ Este projecto é para aprender a usar o git-hub, criar ficheiro no computador e 
 
 
 Descrição breve do projeto: o que faz e para quem é.
+Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
 
 ## Tecnologias utilizadas
 | Nome | Versão |
 |-------|--------|
 | ccd | 8.0 |
 | SKYSHARP | 8.2 |
+|Tepescolio Meade| Telescopio com diamentro de abertura de 152mm|
 
 ## Tarefas por fazer
 - Criar a tabela utilizadores
