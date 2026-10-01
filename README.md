@@ -17,17 +17,22 @@ Descrição breve do projeto: o que faz e para quem é.
 Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
 
 ## Tecnologias utilizadas
-| Nome | Versão |
+| Nome | Versão  |
 |-------|--------|
 | ccd | 8.0 |
 | SKYSHARP | 8.2 |
 |Telescopio Meade| Telescopio com diamentro de abertura de 152mm|
+|------|-----|-----|
+| MySQL | 8.0 | OK |
+| XAMPP | 8.2 | OK |
+
 
 ## Identificação dos utilizadores do telescopio
 
 |ID|NOME|TEL|EMAIL|
 |1|Flávio|244|flaviocatarimo@gmail.com|
-|2|.....|....|........|
+|2|.....|....|.....|
+
 
 ## Configuração
 No ficheiro `configuracao.txt` estão as configurações da base de dados:
