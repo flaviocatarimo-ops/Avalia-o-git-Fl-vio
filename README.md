@@ -1,5 +1,5 @@
-<img width="800" height="800" alt="Meade-Telescopio-N-152-762-6-LXD75-GoTo" src="https://github.com/user-attachments/assets/2f10b2cb-efec-4b81-b9a8-e406cc1fc851" />
-<img src="URL_OU_NOME_DA_IMAGEM.jpg" width="50%">
+<img width="250" height="250" alt="Meade-Telescopio-N-152-762-6-LXD75-GoTo" src="https://github.com/user-attachments/assets/2f10b2cb-efec-4b81-b9a8-e406cc1fc851" />
+
 
 
 
