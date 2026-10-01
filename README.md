@@ -14,7 +14,7 @@ Este projecto é para aprender a usar o git-hub, criar ficheiro no computador e 
 
 
 Descrição breve do projeto: o que faz e para quem é.
-Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
+Tirar fotografias ás estrelas e galáxia com camaras CCD de longa exposição
 
 ## Tecnologias utilizadas
 | Nome | Versão  |
