@@ -28,10 +28,9 @@ Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
 
 
 ## Identificação dos utilizadores do telescopio
-
 |ID|NOME|TEL|EMAIL|
 |1|Flávio|244|flaviocatarimo@gmail.com|
-|2|.....|....|.....|
+|2|Silva|255|flaviocatarimo@gmail.com|
 
 
 ## Configuração
