@@ -29,4 +29,5 @@ DATABASE_NAME = my-db
 DATABASE_USERNAME = root
 DATABASE_PASSWORD = 1234
 
-- Autor 1: [Flávio Silva](https://github.com/flaviocatarimo-ops)
+
+- Autor 1 — [Perfil](https://github.com/flaviocatarimo-ops)
