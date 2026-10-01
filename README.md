@@ -18,9 +18,8 @@ Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
 | SKYSHARP | 8.2 |
 |Telescopio Meade| Telescopio com diamentro de abertura de 152mm|
 
-## Tarefas por fazer
-- Criar a tabela utilizadores
-- Criar uma query para listar todos os utilizadores
+## Identificação dos utilizadores do telescopio
+
 |ID|NOME|TEL|EMAIL|
 |1|Flávio|244|flaviocatarimo@gmail.com|
 |2|.....|....|........|
