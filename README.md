@@ -16,7 +16,7 @@ Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
 |-------|--------|
 | ccd | 8.0 |
 | SKYSHARP | 8.2 |
-|Tepescolio Meade| Telescopio com diamentro de abertura de 152mm|
+|Telescopio Meade| Telescopio com diamentro de abertura de 152mm|
 
 ## Tarefas por fazer
 - Criar a tabela utilizadores
