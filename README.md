@@ -4,7 +4,7 @@ Este projecto é para aprender a usar o git-hub, criar ficheiro no computador e 
 # Flávio Silva
 
 # Astrofotografia
-## Telescopio + camaraccd + portatil + softwaredeimagem
+## Telescopio + camara.ccd + portatil + software.de.imagem
 ###
 
 
