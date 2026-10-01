@@ -28,3 +28,5 @@ No ficheiro `configuracao.txt` estão as configurações da base de dados:
 DATABASE_NAME = my-db
 DATABASE_USERNAME = root
 DATABASE_PASSWORD = 1234
+
+- Autor 1: [Flávio Silva](https://github.com/flaviocatarimo-ops)
