@@ -18,16 +18,13 @@ Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
 
 ## Tecnologias utilizadas
 | Nome | Versão  |
-|-------|--------|
-| ccd | 8.0 |
-| SKYSHARP | 8.2 |
-|Telescopio Meade| Telescopio com diamentro de abertura de 152mm|
-|------|-----|-----|
+|---|---|---|----|
 | MySQL | 8.0 | OK |
 | XAMPP | 8.2 | OK |
 
 
 ## Identificação dos utilizadores do telescopio
+
 |ID|NOME|TEL|EMAIL|
 |1|Flávio|244|flaviocatarimo@gmail.com|
 |2|Silva|255|flaviocatarimo@gmail.com|
@@ -42,4 +39,4 @@ DATABASE_PASSWORD = 1234
 ~~~
 
 ## Autores
-- Autor 1 — [perfil](flaviocatarimo-ops · he/him)
+Autor 1 - Flávio Silva - [Perfil GitHub](https://github.com/flaviocatarimo-ops)
