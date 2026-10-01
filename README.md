@@ -23,7 +23,7 @@ Tirar fotografias ás estrelas e galáxia com camarás CCD de longa exposição
 - Criar uma query para listar todos os utilizadores
 |ID|NOME|TEL|EMAIL|
 |1|Flávio|244|flaviocatarimo@gmail.com|
-|1|.....|....|,,,,,,,,,,|
+|2|.....|....|........|
 
 ## Configuração
 No ficheiro `configuracao.txt` estão as configurações da base de dados:
