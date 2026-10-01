@@ -1,3 +1,7 @@
+<img width="800" height="800" alt="Meade-Telescopio-N-152-762-6-LXD75-GoTo" src="https://github.com/user-attachments/assets/2f10b2cb-efec-4b81-b9a8-e406cc1fc851" />
+
+
+
 # Avaliação-git-Flávio
 Este projecto é para aprender a usar o git-hub, criar ficheiro no computador e publicar o site git-hub
 
